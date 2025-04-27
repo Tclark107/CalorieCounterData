@@ -37,3 +37,5 @@ whole wheat bread-80-2-1-12
 whiskey-97-0-0-24.25
 swiss cheese-106-7-1-8
 ham slice-50-4.65-2-0.5
+tuna poke-145-26.77-3.37-4.2
+4oz ground turkey-332-34-16-15
