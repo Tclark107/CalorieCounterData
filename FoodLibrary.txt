@@ -1,43 +1,5 @@
-fairlife-150-30-2.5-4
-egg-77-6.3-5.3-0.4
-eggwhites-25-5-0-0
-cottagecheese-90-13-2-5
-raspberries1/2cup-32-0.8-0.4-7.5
-blueberries1/2cup-42-0.5-0.2-10.7
-honey-60-0-0-17
-groundturkey-170-22-8.7-0
-ahituna-120-27-0.5-0
-pureproteinPeanutButter-200-20-7-17
-vodka-97-0-0-24.25
-milkbread-120-3-3.5-19
-BajaGrilledFishTaco-260-15-12-23
-BajaFishTacosGrilledShrimpTaco-391-12-12-62
-pureproteinChewyChocChip-200-20-5-18
-4ozchicken-100-35-4-0
-1/4cupofrice-51-1-0-11
-pureProteinPeanutButter-200-20-7-17
-sushimeal4/13-800-100-64-100
-8ozchicken-200-70-8-0
-1/2cupofrice-102-2-0-22
-brusselsprowts-56-4-1-11
-greenbeans-102-2-1-22
-cheesespinachkaleEggBites-170-11-11-7
-tspnButter-101-0.12-12-0
-2-0-0-0-0
-Apple-95-0.5-0.3-25
-carrots-26-0.6-0-6
-Wine-123-0-0-30.75
-10.8ozribeye-850-65-60-5
-turkeyCheeseEggWhiteBites-180-17-9-7
-8ozgroundturkey-664-68.2-32-30
-4ozgreekyogurt-80-9-1-5
-orange-45-1-0-9
-small flour tortilla-80-2-1.4-11
-whole wheat bread-80-2-1-12
-whiskey-97-0-0-24.25
-swiss cheese-106-7-1-8
-ham slice-50-4.65-2-0.5
-tuna poke-145-26.77-3.37-4.2
-4oz ground turkey-332-34-16-15
-chicken breast-228-44-5.3-0
-ground turkey-128-16-0-7.1
+egg-1.55-0.13-0.095-0.007
+egg whites-0.52-0.11-0.002-0.007
+chicken breast-1.65-0.31-0.036-0
+white rice-1.3-0.027-0.003-0.28
+deviled egg-2.01-0.1157-0.1623-0.0135
