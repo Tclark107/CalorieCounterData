@@ -1,0 +1,6 @@
+food.csv has food Items
+food_nutrient.csv has protein, carb, fat info
+can find calories from  this info
+not sure how to find amount yet
+chat gpt says look up by fdc_id in foodportion.csv
+join that with measureunit.csv to translate to "cup", "tablespoon"
